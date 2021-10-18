@@ -14,7 +14,7 @@ Visual Studio Code extension to write better *HTML email campaigns* and automate
 
 ![](https://img.shields.io/badge/%F0%9F%92%BC-software--developer-orange) ![](https://img.shields.io/badge/%F0%9F%92%BC-system--administrator-blue)
 
-[![](https://img.shields.io/badge/%F0%9F%8C%90-sangafabrice.blogspot.com-green)](https://sangafabrice.blogspot.com/) [![](https://img.shields.io/badge/%F0%9F%8C%90-linkedin.com-blue)](https://www.linkedin.com/in/sanga-fabrice/)
+[![](https://img.shields.io/badge/%F0%9F%8C%90-sangafabrice.blogspot.com-green)](https://sangafabrice.blogspot.com/) [![](https://img.shields.io/badge/%F0%9F%8C%90-linkedin.com-blue)](https://www.linkedin.com/in/sanga-fabrice/) [![](https://img.shields.io/badge/%F0%9F%93%8E-%20-lightgrey)](https://1drv.ms/b/s!AoVHRThWyDLtijQRG-828L4kUiyK)
 
 ![](https://img.shields.io/twitter/follow/fabrice_sanga?style=social)
 <!--
