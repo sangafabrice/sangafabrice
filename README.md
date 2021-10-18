@@ -1,5 +1,5 @@
 ![Background photo by Florian Olivo
-  ](https://drive.google.com/uc?export=view&id=1mahxJtEWM2o71_-Nir9MqJYcnzhBS9cm)
+  ](sangafabrice.svg)
 Background photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### Currently working on 🔭
