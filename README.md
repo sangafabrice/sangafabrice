@@ -6,6 +6,10 @@ Background photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=
 
 ![](https://img.shields.io/badge/%F0%9F%93%A7-html--email-red) ![](https://img.shields.io/github/last-commit/sangafabrice/html-email/main)
 
+![](https://img.shields.io/badge/%F0%9F%93%A7-html--email--auto-red) ![](https://img.shields.io/github/last-commit/sangafabrice/html-email-auto)
+
+Visual Studio Code extension to write better *HTML email campaigns* and automate the design workflow. Automation coded in *Powershell*. The actual branch is a set of HTML snippets and a blank email template.
+
 ---
 
 ![](https://img.shields.io/badge/%F0%9F%92%BC-software--developer-orange) ![](https://img.shields.io/badge/%F0%9F%92%BC-system--administrator-blue)
@@ -15,7 +19,6 @@ Background photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=
 ![](https://img.shields.io/twitter/follow/fabrice_sanga?style=social)
 <!--
 ### Hi there 👋
-https://www.linkedin.com/in/sanga-fabrice?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpWmkqxT8T7eNk1r949pfuQ%3D%3D
 
 **sangafabrice/sangafabrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
