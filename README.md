@@ -1,6 +1,5 @@
-![Background photo by Florian Olivo
-  ](heroimage.svg)
-Background photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![](heroimage.svg)
+
 
 <!--
 ### Hi there 👋
