@@ -1,4 +1,4 @@
-![](heroimage.svg)
+![](heroimage.jpg)
 
 
 <!--
