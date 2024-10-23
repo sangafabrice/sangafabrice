@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins+Black&size=30&pause=1000&color=008080&right=true&random=false&width=435&height=50&lines=Hello+there!+%F0%9F%91%8B;I'm+Fabrice+Sanga!)](https://git.io/typing-svg)
 
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9M3qDcj8Jw8nIIHLjYXEepR1eTDQFAB1DDkfjy_OUt9GEorjJ-IBKwWddj8AYA7FVsDbjJPGgERKFNu-RhShkhERHukMHGRllIQocvNB6Dh47ldxTMKiMmqb56HItzveYe-ht4V2N1fkskLwpNQnydxWV5Ce0O5S1u_tz9TbAFAlcQLYwZwABBQALfff/s1600/FromTheTechLab-1.png)
+
 [![Sanga Fabrices's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangafabrice&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
