@@ -1,4 +1,4 @@
-![:eye:](https://visitor-badge.laobi.icu/badge?page_id=sangafabrice.sangafabrice&left_color=orange&right_color=teal)
+<!--![:eye:](https://visitor-badge.laobi.icu/badge?page_id=sangafabrice.sangafabrice&left_color=orange&right_color=teal)-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins+Black&size=30&pause=1000&color=008080&right=true&random=false&width=435&height=50&lines=Coming+soon!+%F0%9F%91%8B;My+portfolio+website.)](https://git.io/typing-svg)
 
