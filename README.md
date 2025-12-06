@@ -6,6 +6,6 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8rKNVcqUsyfkIUkvYogSJqRno9B8pnLc8zmv1upKmg_aPcgw33hMIgTcG4AezaFn-idN6lMjiulOgIQfJY7d1mciltllW4SgU8jmvPk2ubMfEGt3sPSkR2p866VVHnww0BzLSEX34a4DtXJCrRo9YSrjzaDT4wQ-UFyBNoA69RG-b1ZwsaQFtilXhboN/s1600/progress-bar-showcase.gif)](https://drive.google.com/uc?export=view&id=1DeKUm8BNifE4yZizkbJJueIOxNBwmMi-)
 
-[![Sanga Fabrices's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangafabrice&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanga Fabrices's GitHub stats](https://github-readme-stats-ruby-delta.vercel.app/api?username=sangafabrice&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
